@@ -1,0 +1,49 @@
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\bin\Debug\net7.0\MyProject.exe
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\bin\Debug\net7.0\MyProject.deps.json
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\bin\Debug\net7.0\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\bin\Debug\net7.0\MyProject.pdb
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\MyProject.pdb
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+C:\Georgian Info\Courses\Programming Fundamentals\30DaysOfCode\MyProject\obj\Debug\net7.0\ref\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\Info\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\Info\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\Info\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\Info\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\Info\obj\Debug\net7.0\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\Info\obj\Debug\net7.0\refint\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\Info\obj\Debug\net7.0\MyProject.pdb
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.exe
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.deps.json
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.pdb
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.pdb
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+C:\Georgian Info\Courses\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\ref\MyProject.dll
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.exe
+C:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.deps.json
+C:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.runtimeconfig.json
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.dll
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\bin\Debug\net7.0\MyProject.pdb
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfoInputs.cache
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.AssemblyInfo.cs
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.csproj.CoreCompileInputs.cache
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.dll
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\refint\MyProject.dll
+c:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.pdb
+C:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\MyProject.genruntimeconfig.cache
+C:\Georgian Info\Courses\Semester 1\Programming Fundamentals\Project\MyProject\obj\Debug\net7.0\ref\MyProject.dll
